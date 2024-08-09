@@ -1,0 +1,21 @@
+/*header section*/
+.header button:hover{
+    background-color: rgb(235, 235, 235);
+}
+.header button:hover .header__tool-tip{
+    opacity: 1;
+}
+
+
+/*sidebar section*/
+.sidebar__link:hover{
+    cursor: pointer;
+    background-color: rgb(238, 238, 238);
+}
+
+
+/*video section*/
+.video__link:active {
+    text-decoration: none;
+    color: black;
+}
