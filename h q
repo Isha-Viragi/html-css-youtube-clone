@@ -1,0 +1,36 @@
+[33mcommit 958f72e09fbeaa49c357c7ec9107a2e4ffc51a11[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Isha Viragi <isha.viragi@gmail.com>
+Date:   Sat Nov 30 12:57:50 2024 -0500
+
+    Change my-channel.jpeg image and accomodate the css styles accordingly
+
+[33mcommit 15733f9b5cf2fe84d9056c2cf715ff456e7ce30b[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 5e9d17f ed02a2d
+Author: Isha Viragi <isha.viragi@gmail.com>
+Date:   Sat Nov 30 12:39:17 2024 -0500
+
+    Merge branch 'main' of github.com:Isha-Viragi/html-css-youtube-clone
+
+[33mcommit ed02a2d3fcdae5e7ad298b143a3cd0b28f0ec268[m
+Author: Isha Viragi <156847717+Isha-Viragi@users.noreply.github.com>
+Date:   Sat Nov 30 12:31:56 2024 -0500
+
+    Add detailed description of project in README.md
+
+[33mcommit f56cbe1577df03e96259c931da58375491ccbe9c[m
+Author: Isha Viragi <156847717+Isha-Viragi@users.noreply.github.com>
+Date:   Sat Nov 30 12:19:38 2024 -0500
+
+    Initial commit
+
+[33mcommit 5e9d17f9ed46a56267e961efa8a7d65a8179bb83[m
+Author: Isha Viragi <isha.viragi@gmail.com>
+Date:   Tue Aug 13 20:01:27 2024 -0400
+
+    Fixes word usage in alt text for upload icon in header__right-section
+
+[33mcommit b5cd83a8bd6d228128e9394c62ac9f098e4cfccb[m
+Author: Isha Viragi <isha.viragi@gmail.com>
+Date:   Fri Aug 9 16:31:03 2024 -0400
+
+    Initial commit
